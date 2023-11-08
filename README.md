@@ -4,6 +4,10 @@
 
 ###Tabla inventario
 
+##Base de datos phpmyadmin
+![Base de datos](https://github.com/JorgeMeza123/MVC_Autopartes/blob/main/Captura%20de%20pantalla%202023-11-08%20124631.png)
+
+
 ##Pagina Inicial
 ![](https://github.com/JorgeMeza123/MVC_Autopartes/blob/main/Captura%20de%20pantalla%202023-11-08%20122803.png)
 
